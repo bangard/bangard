@@ -1,6 +1,5 @@
 # Welcome to Hot Brainy's Profile.
 Let's Work with Our Hot Brains!!!
-### 👋 Hi, I’m @hot-brainy
 ### Skills
   - Python/Django/Flask/Robot Framework/PyTest
   - Go/gorilla/Gin-Gonic
@@ -12,13 +11,11 @@ Let's Work with Our Hot Brains!!!
   - Nodejs/Angular/Nest.js/React/Redux/Next.js/Vue/Vuex/Nuxt.js
   - React-Native/Flutter
   - Webpack/RWD/SASS/SCSS/LESS
-  - Devops/Docker/K8S/Linux
+  - Devops/Docker/K8S/Linux/Server Administration
   - HTML5/CSS3/Bootstrap/Javascript/jQuery
   - Software Development / SaaS
-  - Project Management 
-  - Web Services
-  - AWS/Azure/JIRA
-  - Git/Github/Bitbucket
+  - Project Management/Azure/JIRA/Git/Github/Bitbucket 
+  - Web Services/AWS
 ### Language
   - English : Fluent
 ### Desiring
