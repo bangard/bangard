@@ -1,8 +1,9 @@
 👋 Nothing to say
 
 ---
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=chainlito&theme=nord&title=MultipleLang,Organizations,Joined2020,Repo,PR)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=chainlito&theme=nord&title=MultipleLang,Organizations,Joined2020,Repo,PR,Issue,Star,Follower,Commit)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![NJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=hot-brainy&show_icons=true&theme=tokyonight)
 
