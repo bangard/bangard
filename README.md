@@ -191,22 +191,22 @@
 
   <h3 align="left">Connect with me:</h3>
   <p align="left">
-    <a href="https://linkedin.com/in/splamadeala" target="blank"><img align="center"
+    <a href="https://linkedin.com/in/hotbrainy" target="blank"><img align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-        alt="splamadeala" height="30" width="40" /></a>
-    <a href="https://codepen.io/splamadeala" target="blank"><img align="center"
+        alt="hotbrainy" height="30" width="40" /></a>
+    <a href="https://codepen.io/hotbrainy" target="blank"><img align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
-        alt="splamadeala" height="30" width="40" /></a>
-    <a href="https://dev.to/splamadeala" target="blank"><img align="center"
+        alt="hotbrainy" height="30" width="40" /></a>
+    <a href="https://dev.to/hotbrainy" target="blank"><img align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
-        alt="splamadeala" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/splamadeala" target="blank"><img align="center"
+        alt="hotbrainy" height="30" width="40" /></a>
+    <a href="https://stackoverflow.com/users/hotbrainy" target="blank"><img align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-        alt="splamadeala" height="30" width="40" /></a>
-    <a href="https://www.hackerrank.com/splamadeala" target="blank"><img align="center"
+        alt="hotbrainy" height="30" width="40" /></a>
+    <a href="https://www.hackerrank.com/hotbrainy" target="blank"><img align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-        alt="splamadeala" height="30" width="40" /></a>
-    <a href="https://discord.gg/splamadeala" target="blank"><img align="center"
+        alt="hotbrainy" height="30" width="40" /></a>
+    <a href="https://discord.gg/hotbrainy" target="blank"><img align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-        alt="splamadeala" height="30" width="40" /></a>
+        alt="hotbrainy" height="30" width="40" /></a>
   </p>
