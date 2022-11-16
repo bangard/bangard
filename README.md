@@ -203,7 +203,7 @@
     <a href="https://stackoverflow.com/users/19176503/hotbrainy" target="blank"><img align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
         alt="hotbrainy" height="30" width="40" /></a>
-    <a href="https://www.hackerrank.com/brainhg95" target="blank"><img align="center"
+    <a href="https://www.hackerrank.com/hotbrainy" target="blank"><img align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
         alt="hotbrainy" height="30" width="40" /></a>
     <a href="https://discord.gg/hotbrainy" target="blank"><img align="center"
