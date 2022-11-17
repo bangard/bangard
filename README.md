@@ -1,10 +1,10 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=hotbrainy&no-frame=true&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bangard&no-frame=true&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
-![NJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=hotbrainy&show_icons=true&theme=tokyonight)
+![NJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=bangard&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hotbrainy&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bangard&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hotbrainy&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bangard&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 
@@ -191,22 +191,22 @@
 
   <h3 align="left">Connect with me:</h3>
   <p align="left">
-    <a href="https://linkedin.com/in/hotbrainy" target="blank"><img align="center"
+    <a href="https://linkedin.com/in/bangard" target="blank"><img align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-        alt="hotbrainy" height="30" width="40" /></a>
-    <a href="https://codepen.io/hotbrainy" target="blank"><img align="center"
+        alt="bangard" height="30" width="40" /></a>
+    <a href="https://codepen.io/bangard" target="blank"><img align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
-        alt="hotbrainy" height="30" width="40" /></a>
-    <a href="https://dev.to/hotbrainy" target="blank"><img align="center"
+        alt="bangard" height="30" width="40" /></a>
+    <a href="https://dev.to/bangard" target="blank"><img align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
-        alt="hotbrainy" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/19176503/hotbrainy" target="blank"><img align="center"
+        alt="bangard" height="30" width="40" /></a>
+    <a href="https://stackoverflow.com/users/19176503/bangard" target="blank"><img align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-        alt="hotbrainy" height="30" width="40" /></a>
-    <a href="https://www.hackerrank.com/hotbrainy" target="blank"><img align="center"
+        alt="bangard" height="30" width="40" /></a>
+    <a href="https://www.hackerrank.com/bangard" target="blank"><img align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-        alt="hotbrainy" height="30" width="40" /></a>
-    <a href="https://discord.gg/hotbrainy" target="blank"><img align="center"
+        alt="bangard" height="30" width="40" /></a>
+    <a href="https://discord.gg/bangard" target="blank"><img align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-        alt="hotbrainy" height="30" width="40" /></a>
+        alt="bangard" height="30" width="40" /></a>
   </p>
