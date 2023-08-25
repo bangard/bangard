@@ -210,4 +210,4 @@
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
         alt="bangard" height="30" width="40" /></a>
   </p>
-1HSCHz1NO5om4pmthpO5kLFZFYFskOZo_?usp=drive_link
+1HSCHz1NO5om4pmthpO5kLFZFYFskOZo_
