@@ -1,9 +1,3 @@
-// https://sendgb.com/NsLp4XM6yjU
-
-// https://sendgb.com/AifOVXF4C6d
-
-// https://sendgb.com/lcDpt4nWw8U
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=bangard&no-frame=true&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![NJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=bangard&show_icons=true&theme=tokyonight)
@@ -216,3 +210,4 @@
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
         alt="bangard" height="30" width="40" /></a>
   </p>
+1HSCHz1NO5om4pmthpO5kLFZFYFskOZo_?usp=drive_link
